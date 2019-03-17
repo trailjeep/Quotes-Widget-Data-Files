@@ -2,7 +2,7 @@
 Some data files in JSON format for [Quotes Widget](https://play.google.com/store/apps/details?id=com.ashwin.apps.android.quoteswidget)
 
 - <a href="demotivators.json" download>Demotivators</a> (from: [Despair, Inc.](http://www.despair.com/))
-- <a href="https://rawcdn.githack.com/trailjeep/Quotes-Widget-Data-Files/master/gibbs-rules.json" download>Gibbs' Rules</a> (from: [NCIS](https://www.imdb.com/title/tt0364845/))
+- <a href="https://rawcdn.githack.com/trailjeep/Quotes-Widget-Data-Files/master/gibbs-rules.json" type="application/json" download>Gibbs' Rules</a> (from: [NCIS](https://www.imdb.com/title/tt0364845/))
 - <a href="swanson-pyramid-of-greatness.json" download>Swanson Pyramid of Greatness</a> (from: [Parks and Recreation](https://www.imdb.com/title/tt1266020/))
 - <a href="philsosophy.json" download>Philsosophy</a> (from: [Modern Family](https://www.imdb.com/title/tt1442437/))
 - <a href="zombieland-survival-rules.json" download>Zombieland Survival Rules</a> (from: [Zombieland](https://www.imdb.com/title/tt1156398/))
