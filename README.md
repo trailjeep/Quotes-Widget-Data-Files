@@ -10,4 +10,4 @@ Some data files in JSON format for [Quotes Widget](https://play.google.com/store
 - <a href="dog-sayings.json" download>Dog Sayings</a>
 - <a href="dog-proverbs.json" download>Dog Proverbs</a>
 - <a href="my-collected-quotes.json" download>My Collected Quotes</a>
-- <a href="criminal-minds.json" download>Criminal Minds Quotes</a> (from: [Criminal Minds](https://www.imdb.com/title/tt0452046/))
+- <a href="https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/trailjeep/Quotes-Widget-Data-Files/blob/master/criminal-minds.json">Criminal Minds Quotes</a> (from: [Criminal Minds](https://www.imdb.com/title/tt0452046/))
