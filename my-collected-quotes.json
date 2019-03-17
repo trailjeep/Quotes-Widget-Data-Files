@@ -1,0 +1,790 @@
+{"quotes": [
+  {
+     "quote":"Who made the world I cannot tell; 'Tis made, and here am I in hell. My hand, though now my knuckles bleed, I never soiled with such a deed."
+    ,"author":"A.E. Housman"
+  },
+  {
+     "quote":"Yield gracefully when someone cuts in line. You can then stab them in the back."
+    ,"author":"Ka'a Orto'o"
+  },
+  {
+     "quote":"Scientology: Cornering the idiot market since 1958."
+    ,"author":"-"
+  },
+  {
+     "quote":"Health is merely the slowest possible rate at which one can die."
+    ,"author":"-"
+  },
+  {
+     "quote":"You can fool too many of the people too much of the time."
+    ,"author":"James Thurber"
+  },
+  {
+     "quote":"Ethics are so annoying. I avoid them on principle."
+    ,"author":"Darby Conley"
+  },
+  {
+     "quote":"The test of courage comes when we are in the minority. The test of tolerance comes when we are in the majority."
+    ,"author":"Ralph W. Sockman"
+  },
+  {
+     "quote":"So much of what we call management consists in making it difficult for people to work."
+    ,"author":"Peter Drucker"
+  },
+  {
+     "quote":"Equations are the devil's sentences."
+    ,"author":"Stephen Colbert, The Colbert Report"
+  },
+  {
+     "quote":"I don't want someone shoving his views down my throat, unless they're covered in a crunchy candy shell."
+    ,"author":"Stephen Colbert, The Colbert Report, May 2, 2006"
+  },
+  {
+     "quote":"The only thing that saves us from the bureaucracy is inefficiency. An efficient bureaucracy is the greatest threat to liberty."
+    ,"author":"Eugene McCarthy, Time magazine, Feb. 12, 1979"
+  },
+  {
+     "quote":"Laughing at our mistakes can lengthen our own life. Laughing at someone else's can shorten it."
+    ,"author":"Cullen Hightower"
+  },
+  {
+     "quote":"We hate some persons because we do not know them; and we will not know them because we hate them."
+    ,"author":"Charles Caleb Colton"
+  },
+  {
+     "quote":"The shortest distance between two points is under construction."
+    ,"author":"Noelie Altito"
+  },
+  {
+     "quote":"A lie told often enough becomes the truth."
+    ,"author":"Lenin"
+  },
+  {
+     "quote":"Bureaucrats write memoranda both because they appear to be busy when they are writing and because the memos, once written, immediately become proof that they were busy."
+    ,"author":"Charles Peters"
+  },
+  {
+     "quote":"I tend to live in the past because most of my life is there."
+    ,"author":"Herb Caen"
+  },
+  {
+     "quote":"It may be that the old astrologers had the truth exactly reversed, when they believed that the stars controlled the destinies of men. The time may come when men control the destinies of stars."
+    ,"author":"Arthur C. Clarke, First on the Moon, 1970"
+  },
+  {
+     "quote":"Any sufficiently advanced technology is indistinguishable from magic."
+    ,"author":"Arthur C. Clarke, \"Profiles of The Future\", 1961 (Clarke's third law)"
+  },
+  {
+     "quote":"Nature is trying very hard to make us succeed, but nature does not depend on us. We are not the only experiment."
+    ,"author":"R. Buckminster Fuller, Interview, April 30, 1978"
+  },
+  {
+     "quote":"If it's true that our species is alone in the universe, then I'd have to say that the universe aimed rather low and settled for very little."
+    ,"author":"George Carlin"
+  },
+  {
+     "quote":"If you can find something everyone agrees on, it's wrong."
+    ,"author":"Mo Udall"
+  },
+  {
+     "quote":"I have not failed. I've just found 10,000 ways that won't work."
+    ,"author":"Thomas A. Edison, (attributed)"
+  },
+  {
+     "quote":"Good judgment comes from experience, and experience comes from bad judgment."
+    ,"author":"Barry LePatner"
+  },
+  {
+     "quote":"Drinking makes such fools of people, and people are such fools to begin with, that it's compounding a felony."
+    ,"author":"Robert Benchley"
+  },
+  {
+     "quote":"The nice part about being a pessimist is that you are constantly being either proven right or pleasantly surprised."
+    ,"author":"George F. Will"
+  },
+  {
+     "quote":"The best way to keep one's word is not to give it."
+    ,"author":"Napoleon Bonaparte"
+  },
+  {
+     "quote":"People will buy anything that is one to a customer."
+    ,"author":"Sinclair Lewis"
+  },
+  {
+     "quote":"I know that you believe that you understood what you think I said, but I am not sure you realize that what you heard is not what I meant."
+    ,"author":"Robert McCloskey, State Department spokesman (attributed)"
+  },
+  {
+     "quote":"The thing that impresses me the most about America is the way parents obey their children."
+    ,"author":"King Edward VIII"
+  },
+  {
+     "quote":"I stand by all the misstatements that I've made."
+    ,"author":"Dan Quayle, to Sam Donaldson, 8/17/89"
+  },
+  {
+     "quote":"With or without religion, you would have good people doing good things and evil people doing evil things. But for good people to do evil things, that takes religion."
+    ,"author":"Steven Weinberg, quoted in The New York Times, April 20, 1999"
+  },
+  {
+     "quote":"Whatever you do will be insignificant, but it is very important that you do it."
+    ,"author":"Mahatma Gandhi"
+  },
+  {
+     "quote":"I was born not knowing and have had only a little time to change that here and there."
+    ,"author":"Richard Feynman, Letter to Armando Garcia J, December 11, 1985"
+  },
+  {
+     "quote":"We are at the very beginning of time for the human race. It is not unreasonable that we grapple with problems. But there are tens of thousands of years in the future. Our responsibility is to do what we can, learn what we can, improve the solutions, and pass them on."
+    ,"author":"Richard Feynman"
+  },
+  {
+     "quote":"You can know the name of a bird in all the languages of the world, but when you're finished, you'll know absolutely nothing whatever about the bird... So let's look at the bird and see what it's doing -- that's what counts. I learned very early the difference between knowing the name of something and knowing something."
+    ,"author":"Richard Feynman"
+  },
+  {
+     "quote":"The first principle is that you must not fool yourself - and you are the easiest person to fool."
+    ,"author":"Richard Feynman, Caltech commencement address, 1974"
+  },
+  {
+     "quote":"There is no harm in doubt and skepticism, for it is through these that new discoveries are made."
+    ,"author":"Richard Feynman, Letter to Armando Garcia J, December 11, 1985"
+  },
+  {
+     "quote":"Life can only be understood backwards; but it must be lived forwards."
+    ,"author":"Soren Kierkegaard"
+  },
+  {
+     "quote":"My wife and I were happy for twenty years. Then we met."
+    ,"author":"Rodney Dangerfield"
+  },
+  {
+     "quote":"I think it is good that books still exist, but they do make me sleepy."
+    ,"author":"Frank Zappa"
+  },
+  {
+     "quote":"Anybody who watches three games of football in a row should be declared brain dead."
+    ,"author":"Erma Bombeck"
+  },
+  {
+     "quote":"The only way to entertain some folks is to listen to them."
+    ,"author":"Kin Hubbard"
+  },
+  {
+     "quote":"It's a dangerous business going out your front door."
+    ,"author":"J. R. R. Tolkien, The Fellowship of the Ring"
+  },
+  {
+     "quote":"I don't know half of you half as well as I should like; and I like less than half of you half as well as you deserve."
+    ,"author":"J. R. R. Tolkien, The Fellowship of the Ring"
+  },
+  {
+     "quote":"All that is gold does not glitter; not all those that wander are lost."
+    ,"author":"J. R. R. Tolkien, The Fellowship of the Ring, 1954"
+  },
+  {
+     "quote":"One Ring to rule them all, One Ring to find them, One Ring to bring them all and in the darkness bind them."
+    ,"author":"J. R. R. Tolkien, The Fellowship of the Ring, 1954, chapter 2"
+  },
+  {
+     "quote":"Many that live deserve death. And some die that deserve life. Can you give it to them? Then be not too eager to deal out death in the name of justice, fearing for your own safety. Even the wise cannot see all ends."
+    ,"author":"J. R. R. Tolkien, The Lord Of the Rings, Book Four, Chapter One"
+  },
+  {
+     "quote":"Never face facts; if you do, you'll never get up in the morning."
+    ,"author":"Marlo Thomas"
+  },
+  {
+     "quote":"If you would be a real seeker after truth, it is necessary that at least once in your life you doubt, as far as possible, all things."
+    ,"author":"Rene Descartes"
+  },
+  {
+     "quote":"One man alone can be pretty dumb sometimes, but for real bona fide stupidity, there ain't nothin' can beat teamwork."
+    ,"author":"Edward Abbey"
+  },
+  {
+     "quote":"There is no human problem which could not be solved if people would simply do as I advise."
+    ,"author":"Gore Vidal"
+  },
+  {
+     "quote":"The Constitution gives every American the inalienable right to make a damn fool of himself."
+    ,"author":"John Ciardi"
+  },
+  {
+     "quote":"What the world needs is more geniuses with humility, there are so few of us left."
+    ,"author":"Oscar Levant"
+  },
+  {
+     "quote":"The perfect bureaucrat everywhere is the man who manages to make no decisions and escape all responsibility."
+    ,"author":"Brooks Atkinson, Once Around the Sun, 1951"
+  },
+  {
+     "quote":"You cannot depend on your eyes when your imagination is out of focus."
+    ,"author":"Mark Twain, A Connecticut Yankee in King Arthur's Court"
+  },
+  {
+     "quote":"Part of the inhumanity of the computer is that, once it is competently programmed and working smoothly, it is completely honest."
+    ,"author":"Isaac Asimov"
+  },
+  {
+     "quote":"A specification that will not fit on one page of 8.5x11 inch paper cannot be understood."
+    ,"author":"Mark Ardis"
+  },
+  {
+     "quote":"A government that robs Peter to pay Paul can always depend on the support of Paul."
+    ,"author":"George Bernard Shaw, Everybody's Political What's What? (1944) ch. 30"
+  },
+  {
+     "quote":"Why is it that our memory is good enough to retain the least triviality that happens to us, and yet not good enough to recollect how often we have told it to the same person?"
+    ,"author":"Francois de La Rochefoucauld"
+  },
+  {
+     "quote":"It is of interest to note that while some dolphins are reported to have learned English -- up to fifty words used in correct context -- no human being has been reported to have learned dolphinese."
+    ,"author":"Carl Sagan"
+  },
+  {
+     "quote":"Absence of evidence is not evidence of absence."
+    ,"author":"Carl Sagan"
+  },
+  {
+     "quote":"All of the books in the world contain no more information than is broadcast as video in a single large American city in a single year. Not all bits have equal value."
+    ,"author":"Carl Sagan"
+  },
+  {
+     "quote":"In every country, we should be teaching our children the scientific method and the reasons for a Bill of Rights. With it comes a certain decency, humility and community spirit. In the demon-haunted world that we inhabit by virtue of being human, this may be all that stands between us and the enveloping darkness."
+    ,"author":"Carl Sagan"
+  },
+  {
+     "quote":"Skeptical scrutiny is the means, in both science and religion, by which deep insights can be winnowed from deep nonsense."
+    ,"author":"Carl Sagan"
+  },
+  {
+     "quote":"In science it often happens that scientists say, 'You know that's a really good argument; my position is mistaken,' and then they would actually change their minds and you never hear that old view from them again. They really do it. It doesn't happen as often as it should, because scientists are human and change is sometimes painful. But it"
+    ,"author":""
+  },
+  {
+     "quote":"happens every day. I cannot recall the last time someting like that happened in politics or religion."
+    ,"author":"Carl Sagan, 1987 CSICOP Keynote Address"
+  },
+  {
+     "quote":"Where we have strong emotions, we're liable to fool ourselves."
+    ,"author":"Carl Sagan, Cosmos (Blues for a Red Planet)"
+  },
+  {
+     "quote":"Ordinarily he was insane, but he had lucid moments when he was merely stupid."
+    ,"author":"Heinrich Heine"
+  },
+  {
+     "quote":"If you pick up a starving dog and make him prosperous, he will not bite you. This is the principal difference between a dog and a man."
+    ,"author":"Mark Twain"
+  },
+  {
+     "quote":"You can fool some of the people all of the time, and all of the people some of the time, but you can not fool all of the people all of the time."
+    ,"author":"Abraham Lincoln, (attributed)"
+  },
+  {
+     "quote":"God is not dead but alive and well and working on a much less ambitious project."
+    ,"author":"Anonymous, Graffito"
+  },
+  {
+     "quote":"Life isn't fair. It's just fairer than death, that's all."
+    ,"author":"William Goldman, \"The Princess Bride\""
+  },
+  {
+     "quote":"Oh, what a tangled web we weave when first we practice to believe."
+    ,"author":"Laurence J. Peter, misquoting Sir Walter Scott"
+  },
+  {
+     "quote":"The significant problems we have cannot be solved at the same level of thinking with which we created them."
+    ,"author":"Albert Einstein, (attributed)"
+  },
+  {
+     "quote":"In heaven all the interesting people are missing."
+    ,"author":"Friedrich Nietzsche"
+  },
+  {
+     "quote":"All animals are equal but some animals are more equal than others."
+    ,"author":"George Orwell, \"Animal Farm\""
+  },
+  {
+     "quote":"There are two kinds of light--the glow that illuminates, and the glare that obscures."
+    ,"author":"James Thurber"
+  },
+  {
+     "quote":"A little learning is a dangerous thing but a lot of ignorance is just as bad."
+    ,"author":"Bob Edwards"
+  },
+  {
+     "quote":"Knowledge is of two kinds. We know a subject ourselves, or we know where we can find information on it."
+    ,"author":"Samuel Johnson, quoted in Boswell's Life of Johnson"
+  },
+  {
+     "quote":"The enemy is anybody who's going to get you killed, no matter which side he's on."
+    ,"author":"Joseph Heller, Catch 22"
+  },
+  {
+     "quote":"Happiness in intelligent people is the rarest thing I know."
+    ,"author":"Ernest Hemingway"
+  },
+  {
+     "quote":"The first question I ask myself when something doesn't seem to be beautiful is why do I think it's not beautiful. And very shortly you discover that there is no reason."
+    ,"author":"John Cage"
+  },
+  {
+     "quote":"There's always somebody who is paid too much, and taxed too little - and it's always somebody else."
+    ,"author":"Cullen Hightower"
+  },
+  {
+     "quote":"Try as hard as we may for perfection, the net result of our labors is an amazing variety of imperfectness. We are surprised at our own versatility in being able to fail in so many different ways."
+    ,"author":"Samuel McChord Crothers"
+  },
+  {
+     "quote":"There is no expedient to which a man will not go to avoid the labor of thinking."
+    ,"author":"Thomas A. Edison"
+  },
+  {
+     "quote":"Read, every day, something no one else is reading. Think, every day, something no one else is thinking. Do, every day, something no one else would be silly enough to do. It is bad for the mind to be always part of unanimity."
+    ,"author":"Christopher Morley"
+  },
+  {
+     "quote":"It takes hundreds of nuts to hold a car together, but it takes only one of them to scatter it all over the highway."
+    ,"author":"Evan Esar, Esar's Comic Dictionary"
+  },
+  {
+     "quote":"The most erroneous stories are those we think we know best - and therefore never scrutinize or question."
+    ,"author":"Stephen Jay Gould"
+  },
+  {
+     "quote":"A superstition is a premature explanation that overstays its time."
+    ,"author":"George Iles"
+  },
+  {
+     "quote":"A committee is a cul-de-sac down which ideas are lured and then quietly strangled."
+    ,"author":"Sir Barnett Cocks"
+  },
+  {
+     "quote":"The most common of all follies is to believe passionately in the palpably not true. It is the chief occupation of mankind."
+    ,"author":"H. L. Mencken"
+  },
+  {
+     "quote":"Ninety percent of everything is crap."
+    ,"author":"Theodore Sturgeon"
+  },
+  {
+     "quote":"Sometimes the appropriate response to reality is to go insane."
+    ,"author":"Philip K. Dick, Valis"
+  },
+  {
+     "quote":"On the Internet, nobody knows you're a dog."
+    ,"author":"Peter Steiner, cartoon in The New Yorker, July 5, 1993"
+  },
+  {
+     "quote":"As far as the laws of mathematics refer to reality, they are not certain; and as far as they are certain, they do not refer to reality."
+    ,"author":"Albert Einstein, \"Geometry and Experience\", January 27, 1921"
+  },
+  {
+     "quote":"Much of the social history of the Western world over the past three decades has involved replacing what worked with what sounded good."
+    ,"author":"Thomas Sowell, Is Reality Optional?, 1993"
+  },
+  {
+     "quote":"When buying and selling are controlled by legislation, the first things to be bought and sold are legislators."
+    ,"author":"P. J. O'Rourke"
+  },
+  {
+     "quote":"Disobedience, in the eyes of anyone who has read history, is man's original virtue. It is through disobedience and rebellion that progress has been made."
+    ,"author":"Oscar Wilde, The Soul of Man Under Socialism"
+  },
+  {
+     "quote":"Love thy neighbour as yourself, but choose your neighbourhood."
+    ,"author":"Louise Beal"
+  },
+  {
+     "quote":"Whenever I dwell for any length of time on my own shortcomings, they gradually begin to seem mild, harmless, rather engaging little things, not at all like the staring defects in other people's characters."
+    ,"author":"Margaret Halsey"
+  },
+  {
+     "quote":"We rarely think people have good sense unless they agree with us."
+    ,"author":"Francois de La Rochefoucauld, Maximes (1678)"
+  },
+  {
+     "quote":"After the last of 16 mounting screws has been removed from an access cover, it will be discovered that the wrong access cover has been removed."
+    ,"author":"De La Lastra's Law"
+  },
+  {
+     "quote":"We live in a Newtonian world of Einsteinian physics ruled by Frankenstein logic."
+    ,"author":"David Russell"
+  },
+  {
+     "quote":"The only good ideas are the ones I can take credit for."
+    ,"author":"R. Stevens, Diesel Sweeties, 11-13-06"
+  },
+  {
+     "quote":"But in this world nothing can be said to be certain, except death and taxes."
+    ,"author":"Benjamin Franklin, Letter to Jean Baptiste Le Roy (1789)"
+  },
+  {
+     "quote":"No good deed goes unpunished."
+    ,"author":"Clare Booth Luce"
+  },
+  {
+     "quote":"Our national flower is the concrete cloverleaf."
+    ,"author":"Lewis Mumford"
+  },
+  {
+     "quote":"Basic research is what I am doing when I don't know what I am doing."
+    ,"author":"Wernher von Braun"
+  },
+  {
+     "quote":"I am not young enough to know everything."
+    ,"author":"Oscar Wilde"
+  },
+  {
+     "quote":"Nothing is as simple as we hope it will be."
+    ,"author":"Jim Horning"
+  },
+  {
+     "quote":"Give a man a fish and he will eat for a day. Teach a man to fish and he will eat for a lifetime. Teach a man to create an artificial shortage of fish and he will eat steak."
+    ,"author":"Jay Leno"
+  },
+  {
+     "quote":"The significant problems we have cannot be solved at the same level of thinking with which we created them."
+    ,"author":"Albert Einstein, (attributed)"
+  },
+  {
+     "quote":"Just because something doesn't do what you planned it to do doesn't mean it's useless."
+    ,"author":"Thomas A. Edison"
+  },
+  {
+     "quote":"Gratitude is merely the secret hope of further favors."
+    ,"author":"Francois de La Rochefoucauld"
+  },
+  {
+     "quote":"The stupid neither forgive nor forget; the naive forgive and forget; the wise forgive but do not forget."
+    ,"author":"Thomas Szasz, The Second Sin (1973) \"Personal Conduct\""
+  },
+  {
+     "quote":"The problem with people who have no vices is that generally you can be pretty sure they're going to have some pretty annoying virtues."
+    ,"author":"Elizabeth Taylor"
+  },
+  {
+     "quote":"Physicists like to think that all you have to do is say, these are the conditions, now what happens next?"
+    ,"author":"Richard Feynman"
+  },
+  {
+     "quote":"Idealism is what precedes experience; cynicism is what follows."
+    ,"author":"David T. Wolf"
+  },
+  {
+     "quote":"Youth would be an ideal state if it came a little later in life."
+    ,"author":"Herbert Henry Asquith"
+  },
+  {
+     "quote":"A classic is something that everybody wants to have read and nobody wants to read."
+    ,"author":"Mark Twain, Speech in New York, Nov. 20, 1900"
+  },
+  {
+     "quote":"The great thing about television is that if something important happens anywhere in the world, day or night, you can always change the channel."
+    ,"author":"From \"Taxi\""
+  },
+  {
+     "quote":"The truth is more important than the facts."
+    ,"author":"Frank Lloyd Wright"
+  },
+  {
+     "quote":"The greatest of faults, I should say, is to be conscious of none."
+    ,"author":"Thomas Carlyle"
+  },
+  {
+     "quote":"Adventure is just bad planning."
+    ,"author":"Roald Amundsen"
+  },
+  {
+     "quote":"Don't knock the weather. If it didn't change once in a while, nine out of ten people couldn't start a conversation."
+    ,"author":"Kin Hubbard"
+  },
+  {
+     "quote":"Life is just one damned thing after another."
+    ,"author":"Elbert Hubbard"
+  },
+  {
+     "quote":"A vacuum is a hell of a lot better than some of the stuff that nature replaces it with."
+    ,"author":"Tennessee Williams, Cat on a Hot Tin Roof (1955)"
+  },
+  {
+     "quote":"Personally I'm always ready to learn, although I do not always like being taught."
+    ,"author":"Sir Winston Churchill"
+  },
+  {
+     "quote":"I do not fear computers. I fear the lack of them."
+    ,"author":"Isaac Asimov"
+  },
+  {
+     "quote":"Each problem that I solved became a rule which served afterwards to solve other problems."
+    ,"author":"Rene Descartes"
+  },
+  {
+     "quote":"Things are only impossible until they're not."
+    ,"author":"Jean-Luc Picard, 'Star Trek: The Next Generation'"
+  },
+  {
+     "quote":"If winning isn't everything, why do they keep score?"
+    ,"author":"Vince Lombardi"
+  },
+  {
+     "quote":"The ultimate result of shielding men from the effects of folly is to fill the world with fools."
+    ,"author":"Herbert Spencer"
+  },
+  {
+     "quote":"I have long been of the opinion that if work were such a splendid thing the rich would have kept more of it for themselves."
+    ,"author":"Bruce Grocott"
+  },
+  {
+     "quote":"What luck for rulers that men do not think."
+    ,"author":"Adolf Hitler"
+  },
+  {
+     "quote":"Every great advance in natural knowledge has involved the absolute rejection of authority."
+    ,"author":"Thomas H. Huxley"
+  },
+  {
+     "quote":"Freedom of the press is limited to those who own one."
+    ,"author":"A. J. Liebling"
+  },
+  {
+     "quote":"With most men, unbelief in one thing springs from blind belief in another."
+    ,"author":"Georg Christoph Lichtenberg"
+  },
+  {
+     "quote":"Today's scientists have substituted mathematics for experiments, and they wander off through equation after equation, and eventually build a structure which has no relation to reality."
+    ,"author":"Nikola Tesla, Modern Mechanics and Inventions, July, 1934"
+  },
+  {
+     "quote":"Our virtues and our failings are inseparable, like force and matter. When they separate, man is no more."
+    ,"author":"Nikola Tesla"
+  },
+  {
+     "quote":"The scientists of today think deeply instead of clearly. One must be sane to think clearly, but one can think deeply and be quite insane."
+    ,"author":"Nikola Tesla, Modern Mechanics and Inventions. July, 1934"
+  },
+  {
+     "quote":"If Edison had a needle to find in a haystack, he would proceed at once with the diligence of the bee to examine straw after straw until he found the object of his search... I was a sorry witness of such doings, knowing that a little theory and calculation would have saved him ninety per cent of his labor."
+    ,"author":"Nikola Tesla, New York Times, October 19, 1931"
+  },
+  {
+     "quote":"Never try to tell everything you know. It may take too short a time."
+    ,"author":"Norman Ford"
+  },
+  {
+     "quote":"The covers of this book are too far apart."
+    ,"author":"Ambrose Bierce, The Devil's Dictionary"
+  },
+  {
+     "quote":"We are bits of stellar matter that got cold by accident, bits of a star gone wrong."
+    ,"author":"Sir Arthur Eddington"
+  },
+  {
+     "quote":"I phoned my dad to tell him I had stopped smoking. He called me a quitter."
+    ,"author":"Steven Pearl"
+  },
+  {
+     "quote":"It is better to deserve honors and not have them than to have them and not to deserve them."
+    ,"author":"Mark Twain"
+  },
+  {
+     "quote":"You can pretend to be serious; you can't pretend to be witty."
+    ,"author":"Sacha Guitry"
+  },
+  {
+     "quote":"I do not feel obliged to believe that the same God who has endowed us with sense, reason, and intellect has intended us to forgo their use."
+    ,"author":"Galileo Galilei"
+  },
+  {
+     "quote":"The world's as ugly as sin, and almost as delightful"
+    ,"author":"Frederick Locker-Lampson"
+  },
+  {
+     "quote":"Americans will put up with anything provided it doesn't block traffic."
+    ,"author":"Dan Rather"
+  },
+  {
+     "quote":"Once the game is over, the King and the pawn go back in the same box."
+    ,"author":"Italian Proverb"
+  },
+  {
+     "quote":"The people who are regarded as moral luminaries are those who forego ordinary pleasures themselves and find compensation in interfering with the pleasures of others."
+    ,"author":"Bertrand Russell"
+  },
+  {
+     "quote":"The author of the Iliad is either Homer or, if not Homer, somebody else of the same name."
+    ,"author":"Aldous Huxley"
+  },
+  {
+     "quote":"I told my psychiatrist that everyone hates me. He said I was being ridiculous - everyone hasn't met me yet."
+    ,"author":"Rodney Dangerfield"
+  },
+  {
+     "quote":"There's a fine line between genius and insanity. I have erased this line."
+    ,"author":"Oscar Levant"
+  },
+  {
+     "quote":"When they discover the center of the universe, a lot of people will be disappointed to discover they are not it."
+    ,"author":"Bernard Bailey"
+  },
+  {
+     "quote":"I think computer viruses should count as life. I think it says something about human nature that the only form of life we have created so far is purely destructive. We've created life in our own image."
+    ,"author":"Stephen Hawking"
+  },
+  {
+     "quote":"The public will believe anything, so long as it is not founded on truth."
+    ,"author":"Edith Sitwell"
+  },
+  {
+     "quote":"No one has ever had an idea in a dress suit."
+    ,"author":"Sir Frederick G. Banting"
+  },
+  {
+     "quote":"Accomplishing the impossible means only that the boss will add it to your regular duties."
+    ,"author":"Doug Larson"
+  },
+  {
+     "quote":"The average person thinks he isn't."
+    ,"author":"Father Larry Lorenzoni"
+  },
+  {
+     "quote":"Advertisements... contain the only truths to be relied on in a newspaper."
+    ,"author":"Thomas Jefferson, Letter to Nathaniel Macon, January 12, 1819"
+  },
+  {
+     "quote":"It has been my experience that folks who have no vices have very few virtues."
+    ,"author":"Abraham Lincoln"
+  },
+  {
+     "quote":"Hard work never killed anybody, but why take a chance?"
+    ,"author":"Edgar Bergen, (Charlie McCarthy)"
+  },
+  {
+     "quote":"In the part of this universe that we know there is great injustice, and often the good suffer, and often the wicked prosper, and one hardly knows which of those is the more annoying."
+    ,"author":"Bertrand Russell"
+  },
+  {
+     "quote":"The men the American public admire most extravagantly are the most daring liars; the men they detest most violently are those who try to tell them the truth."
+    ,"author":"H. L. Mencken"
+  },
+  {
+     "quote":"Everyone thinks of changing the world, but no one thinks of changing himself."
+    ,"author":"Leo Tolstoy"
+  },
+  {
+     "quote":"Against logic there is no armor like ignorance."
+    ,"author":"Laurence J. Peter"
+  },
+  {
+     "quote":"Ability will never catch up with the demand for it."
+    ,"author":"Malcolm Forbes"
+  },
+  {
+     "quote":"I once wanted to become an atheist, but I gave up - they have no holidays."
+    ,"author":"Henny Youngman"
+  },
+  {
+     "quote":"If you believe everything you read, better not read."
+    ,"author":"Japanese Proverb"
+  },
+  {
+     "quote":"Here's a rule I recommend: Never practice two vices at once."
+    ,"author":"Tallulah Bankhead"
+  },
+  {
+     "quote":"If we couldn't laugh, we would all go insane."
+    ,"author":"Jimmy Buffett"
+  },
+  {
+     "quote":"Life being what it is, one dreams of revenge."
+    ,"author":"Paul Gauguin"
+  },
+  {
+     "quote":"Facts are stupid things."
+    ,"author":"Ronald Reagan"
+  },
+  {
+     "quote":"Statistics: The only science that enables different experts using the same figures to draw different conclusions."
+    ,"author":"Evan Esar, Esar's Comic Dictionary"
+  },
+  {
+     "quote":"Whatever you may be sure of, be sure of this, that you are dreadfully like other people."
+    ,"author":"James Russell Lowell"
+  },
+  {
+     "quote":"We cross our bridges when we come to them and burn them behind us, with nothing to show for our progress except a memory of the smell of smoke, and a presumption that once our eyes watered."
+    ,"author":"Tom Stoppard, Rosencrantz and Guildenstern are Dead"
+  },
+  {
+     "quote":"Sometimes what's right isn't as important as what's profitable."
+    ,"author":"Trey Parker and Matt Stone, South Park, Prehistoric Ice Man, 1999"
+  },
+  {
+     "quote":"Even if you do learn to speak correct English, whom are you going to speak it to?"
+    ,"author":"Clarence Darrow"
+  },
+  {
+     "quote":"The only thing I like about rich people is their money."
+    ,"author":"Nancy Astor"
+  },
+  {
+     "quote":"The illegal we do immediately. The unconstitutional takes a little longer."
+    ,"author":"Henry Kissinger, New York Times, Oct. 28, 1973"
+  },
+  {
+     "quote":"The problem with the designated driver program, it's not a desirable job, but if you ever get sucked into doing it, have fun with it. At the end of the night, drop them off at the wrong house."
+    ,"author":"Jeff Foxworthy"
+  },
+  {
+     "quote":"Laziness is nothing more than the habit of resting before you get tired."
+    ,"author":"Jules Renard"
+  },
+  {
+     "quote":"As I grow older , I regret to say that a detestable habit of thinking seems to be getting a hold of me."
+    ,"author":"H. Rider Haggard, King Solomon's Mines"
+  },
+  {
+     "quote":"In theory, there is no difference between theory and practice; In practice, there is."
+    ,"author":"Chuck Reid"
+  },
+  {
+     "quote":"There are more fools in the world than there are people."
+    ,"author":"Heinrich Heine"
+  },
+  {
+     "quote":"The only thing that sustains one through life is the consciousness of the immense inferiority of everybody else, and this is a feeling that I have always cultivated."
+    ,"author":"Oscar Wilde, \"The Remarkable Rocket\""
+  },
+  {
+     "quote":"Some people are born on third base and go through life thinking they hit a triple."
+    ,"author":"Barry Switzer"
+  },
+  {
+     "quote":"The point of living and of being an optimist, is to be foolish enough to believe the best is yet to come."
+    ,"author":"Peter Ustinov"
+  },
+  {
+     "quote":"They always talk who never think."
+    ,"author":"Matthew Prior"
+  },
+  {
+     "quote":"I think it's the duty of the comedian to find out where the line is drawn and cross it deliberately."
+    ,"author":"George Carlin"
+  },
+  {
+     "quote":"Two roads diverged in a wood, and I--I took the one less traveled by, And that has made all the difference."
+    ,"author":"Robert Frost, The Road Not Taken"
+  },
+  {
+     "quote":"Since we cannot know all that there is to be known about anything, we ought to know a little about everything."
+    ,"author":"Blaise Pascal"
+  },
+  {
+     "quote":"Sometimes you go to the circus - sometimes the circus comes to you!"
+    ,"author":"Unknown"
+  }
+]}
