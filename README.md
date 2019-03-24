@@ -4,3 +4,5 @@ Some data files in JSON format for [Quotes Widget](https://play.google.com/store
 Contributions ~~welcome~~ needed.
 
 Go [here](https://trailjeep.github.io/Quotes-Widget-Data-Files/) to download the individual files to your device (GitHub does not allow direct download links.)
+
+[test](gibbs-rules.json?raw=true)
